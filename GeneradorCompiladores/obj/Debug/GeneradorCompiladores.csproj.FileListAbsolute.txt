@@ -1,0 +1,27 @@
+c:\users\pc\documents\visual studio 2013\Projects\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe
+C:\Users\PC\documents\visual studio 2013\Projects\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.exe
+C:\Users\PC\documents\visual studio 2013\Projects\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.pdb
+C:\Users\Oscar Barrón\Documents\Visual Studio 2015\Projects\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe.config
+C:\Users\Oscar Barrón\Documents\Visual Studio 2015\Projects\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.exe
+C:\Users\Oscar Barrón\Documents\Visual Studio 2015\Projects\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.pdb
+C:\Users\Oscar\Desktop\OscarBarronCastellanos\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe.config
+C:\Users\Oscar\Desktop\OscarBarronCastellanos\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.exe
+C:\Users\Oscar\Desktop\OscarBarronCastellanos\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.pdb
+C:\Users\Oscar\Desktop\OscarBarronCastellanos\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe
+C:\Users\Oscar\Desktop\OscarBarronCastellanos\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.pdb
+C:\Users\Oscar\Desktop\OscarBarronCastellanos\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.csprojResolveAssemblyReference.cache
+C:\ITQ\Septimo Semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe.config
+C:\ITQ\Septimo Semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.exe
+C:\ITQ\Septimo Semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.pdb
+C:\ITQ\Septimo Semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe
+C:\ITQ\Septimo Semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.pdb
+C:\ITQ\Septimo Semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.csprojResolveAssemblyReference.cache
+C:\ITQ\7 semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe.config
+C:\ITQ\7 semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.exe
+C:\ITQ\7 semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.pdb
+C:\ITQ\7 semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\obj\Debug\GeneradorCompiladores.csprojResolveAssemblyReference.cache
+C:\ITQ\7 semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.exe
+C:\ITQ\7 semestre\Automatas II\GeneradorCompiladores\GeneradorCompiladores\bin\Debug\GeneradorCompiladores.pdb
