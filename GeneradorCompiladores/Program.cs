@@ -21,6 +21,7 @@ namespace GeneradorCompiladores
             l.salida.Close();
             Console.WriteLine("Programa generado");
             Console.ReadKey();
+Console.WriteLine("Esto es un cambio");
         }
     }
 }
